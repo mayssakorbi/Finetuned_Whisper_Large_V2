@@ -1,3 +1,6 @@
+# Finetuned Whisper Large V2
+This repository contains a fine-tuned version of OpenAI's Whisper Large V2 model, trained on the Common Voice 17 dataset. The model achieves a Word Error Rate (WER) of 45%, providing improved transcription capabilities for multilingual speech recognition tasks. Included are the fine-tuning scripts, adapter configurations, and the resulting model weights.
+
 ---
 library_name: transformers
 tags: []
